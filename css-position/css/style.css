@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Kaushan+Script&family=Poppins:wght@400;500;600;800&display=swap');
+body{
+    font-family: 'Caveat', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.hero-section{
+   position: relative;
+}
+.hero-img {
+    width: 100%;
+}
+.hero-content {
+    position: absolute;
+    top: 0;
+    color: #fff;
+    margin: 90px 150px;
+}
+.hero-desp1 {
+    font-weight: 500;
+}
+.hero-head {
+    font-weight:600;
+    font-size: 40px;
+    margin: 0;
+}
+.hero-desp2{
+    font-size: 20px;
+    margin:8px 0 ;
+
+}
+.hero-btn{
+background-color: rgb(235, 113, 0);
+border: none;
+outline: none;
+padding: 8px 15px;
+font-weight: 600;
+color: #fff;
+font-size: 18px;
+border-radius: 20px;
+}
