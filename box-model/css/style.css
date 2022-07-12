@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Kaushan+Script&family=Poppins:wght@400;500;600&display=swap');
+body {
+    font-family: 'Caveat', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin: 20px;
+}
+.head {
+    font-size: 35px;
+}
+.card {
+    background-color: rgb(222, 49, 81);
+    width: 350px;
+    height: 450px;
+    border-radius: 20px ;
+    margin-bottom: 30px;
+}
+.card-img {
+    width: 350px;
+    border-radius: 20px 20px 0 0;
+}
+.card-body {
+    color: #fff;
+    margin-left: 20px;
+    
+}
+.card-body h1,p {
+    margin-bottom: 0;
+}
+.card-body p {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+.bg-card1 {
+    background-color: rgb(222, 49, 81);
+}
+.bg-card2 {
+    background-color: rgb(217, 59, 48);
+}
+.bg-card3 {
+    background-color: rgb(204, 45, 74);
+}
+.bg-card4 {
+    background-color: rgb(188, 26, 110);
+}
